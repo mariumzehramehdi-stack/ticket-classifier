@@ -293,9 +293,7 @@ The application demonstrates an end-to-end workflow from **customer input to mac
 
 ## Author
 
-**Marium Zehra**
-
-BS Computer Science Student
+Mariam Zehra — Computer Science Student | AI/ML | Python
  
           
 
